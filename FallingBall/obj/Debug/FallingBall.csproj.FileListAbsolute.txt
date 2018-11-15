@@ -1,0 +1,8 @@
+E:\工档\程序设计\C#\FallingBall\FallingBall\bin\Debug\FallingBall.exe
+E:\工档\程序设计\C#\FallingBall\FallingBall\bin\Debug\FallingBall.pdb
+E:\工档\程序设计\C#\FallingBall\FallingBall\obj\Debug\ResolveAssemblyReference.cache
+E:\工档\程序设计\C#\FallingBall\FallingBall\obj\Debug\FallingBall.Properties.Resources.resources
+E:\工档\程序设计\C#\FallingBall\FallingBall\obj\Debug\FallingBall.csproj.GenerateResource.Cache
+E:\工档\程序设计\C#\FallingBall\FallingBall\obj\Debug\FallingBall.exe
+E:\工档\程序设计\C#\FallingBall\FallingBall\obj\Debug\FallingBall.pdb
+E:\工档\程序设计\C#\FallingBall\FallingBall\obj\Debug\FallingBall.FormMain.resources
